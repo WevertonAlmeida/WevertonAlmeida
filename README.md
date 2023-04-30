@@ -1,6 +1,13 @@
 ### Olá devs 👋
 
-Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
+![](https://komarev.com/ghpvc/?username=WevertonAlmeida&color=006bed)
+
+## :man: Sobre mim
+
+- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🎓 &nbsp; Estudando **Engenharia de Software** no <a href="https://faculdadefocus.com.br">Faculdade Focus</a>.
+- 💼 &nbsp; Trabalhando como **Programador Full Stack PHP** na <a href="https://clinisys.com.br/">CliniSYS</a>
+- 🌱 &nbsp; Aprendendo mais sobre **ReactJS, Flutter e Python**.
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
@@ -59,7 +66,5 @@ class Weverton {
 
   <a href="#" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/wevertondealmeida"/></a>
-  
-  [![GitHub SEU NOME]( https://img.shields.io/github/followers/WevertonAlmeida?label=follow&style=social)](https://github.com/WevertonAlmeida)
 </p> 
 
