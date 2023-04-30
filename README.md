@@ -37,8 +37,6 @@ class Weverton {
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
----
-
 ## ⭐ Informações sobre minha conta GitHub
 <a href="https://github.com/Gurupreet">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=WevertonAlmeida&show_icons=true" />
@@ -61,5 +59,7 @@ class Weverton {
 
   <a href="#" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/wevertondealmeida"/></a>
+  
+  [![GitHub SEU NOME]( https://img.shields.io/github/followers/WevertonAlmeida?label=follow&style=social)](https://github.com/WevertonAlmeida)
 </p> 
 
