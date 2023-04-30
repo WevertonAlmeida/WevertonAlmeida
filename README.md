@@ -70,7 +70,7 @@ class Weverton {
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=wevertondealmeida@gmail.com" /></a>
 
   <a href="mailto:weverton.a@outlook.com" alt="Outlook">
-  <img src="https://img.shields.io/badge/-Hotmail-0e76a8?style=flat-square&logo=Hotmail&logoColor=white&link=https://www.outlook.com" /></a>
+  <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=https://www.outlook.com" /></a>
 </p> 
 
 ## :earth_americas: Rede Sociais
