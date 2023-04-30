@@ -48,12 +48,9 @@ class Weverton {
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WevertonAlmeida&theme=dracula&hide_langs_below=1" />
 </a>
 
-[website]: https://wevertonalmeida.dev/
-[instagram]: https://www.instagram.com/weverton.a/
-[linkedin]: https://www.linkedin.com/in/wevertondealmeida/
 <br>
 
-<h3> :earth_americas: &nbsp;Rede Sociais: </h3>
+## :earth_americas: Rede Sociais
 
 <p align="left">
   <a href="#" alt="Outlook">
