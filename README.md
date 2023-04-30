@@ -63,12 +63,19 @@ class Weverton {
 
 <br>
 
-## :earth_americas: Rede Sociais
+## 📧 Contato
 
 <p align="left">
   <a href="mailto:wevertondealmeida@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=wevertondealmeida@gmail.com" /></a>
 
+  <a href="mailto:weverton.a@outlook.com" alt="Outlook">
+  <img src="https://img.shields.io/badge/-Hotmail-0e76a8?style=flat-square&logo=Hotmail&logoColor=white&link=https://www.outlook.com" /></a>
+</p> 
+
+## :earth_americas: Rede Sociais
+
+<p align="left">
   <a href="https://www.linkedin.com/in/wevertondealmeida" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wevertondealmeida" /></a>
 
