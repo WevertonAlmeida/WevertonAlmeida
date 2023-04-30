@@ -58,7 +58,7 @@ class Weverton {
 </a>
 
 <a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WevertonAlmeida&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WevertonAlmeida&hide=html&layout=compact&theme=default" />
 </a>
 
 <br>
