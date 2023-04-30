@@ -9,7 +9,9 @@
 - 💼 &nbsp; Trabalhando como **Programador Full Stack PHP** na <a href="https://clinisys.com.br/">CliniSYS</a>
 - 🌱 &nbsp; Aprendendo mais sobre **ReactJS, Flutter e Python**.
 
-## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
+<br>
+
+## <img width="45" alt="about" src="[https://www.flaticon.com/br/icone-gratis/php_9681650"> Mais sobre mim
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="250px" max-width="250px" width="250px" align="right" alt="Weverton de Almeida">
 
