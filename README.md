@@ -1,7 +1,5 @@
 ### Olá devs 👋
 
-![](https://komarev.com/ghpvc/?username=WevertonAlmeida&color=006bed)
-
 ## :man: Sobre mim
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
