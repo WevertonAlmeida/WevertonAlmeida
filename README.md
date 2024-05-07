@@ -52,11 +52,11 @@ class Weverton {
 <br>
 
 ## ⭐ Informações sobre minha conta GitHub
-<a href="https://github.com/Gurupreet">
+<a href="https://github.com/WevertonAlmeida">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=WevertonAlmeida&show_icons=true" />
 </a>
 
-<a href="https://github.com/Gurupreet">
+<a href="https://github.com/WevertonAlmeida">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WevertonAlmeida&hide=html&layout=compact&theme=default" />
 </a>
 
